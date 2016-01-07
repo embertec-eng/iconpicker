@@ -1,5 +1,5 @@
 /**
- * @file iconset-hadevices-0.0.1.js
+ * @file iconset-coloricon-0.0.1.js
  *
  * EMBERTEC PTY LTD CONFIDENTIAL
  *
