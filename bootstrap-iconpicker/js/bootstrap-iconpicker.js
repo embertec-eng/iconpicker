@@ -39,15 +39,9 @@
     // ==============================
     Iconpicker.ICONSET = {
         _custom: null,
-        elusiveicon: $.iconset_elusiveicon || Iconpicker.ICONSET_EMPTY,
         fontawesome: $.iconset_fontawesome || Iconpicker.ICONSET_EMPTY,
-        ionicon: $.iconset_ionicon || Iconpicker.ICONSET_EMPTY,
-        glyphicon: $.iconset_glyphicon || Iconpicker.ICONSET_EMPTY,        
-        mapicon: $.iconset_mapicon || Iconpicker.ICONSET_EMPTY,
-        materialdesign: $.iconset_materialdesign || Iconpicker.ICONSET_EMPTY,
-        octicon: $.iconset_octicon || Iconpicker.ICONSET_EMPTY,
-        typicon: $.iconset_typicon || Iconpicker.ICONSET_EMPTY,
-        weathericon: $.iconset_weathericon || Iconpicker.ICONSET_EMPTY
+	haicon: $.iconset_haicon || Iconpicker.ICONSET_EMPTY,
+	coloricon: $.iconset_coloricon || Iconpicker.ICONSET_EMPTY
     };
 
     // ICONPICKER DEFAULTS
