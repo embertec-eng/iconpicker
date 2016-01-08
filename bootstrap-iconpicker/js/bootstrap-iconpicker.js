@@ -40,8 +40,8 @@
     Iconpicker.ICONSET = {
         _custom: null,
         fontawesome: $.iconset_fontawesome || Iconpicker.ICONSET_EMPTY,
-	haicon: $.iconset_haicon || Iconpicker.ICONSET_EMPTY,
-	coloricon: $.iconset_coloricon || Iconpicker.ICONSET_EMPTY
+        haicon: $.iconset_haicon || Iconpicker.ICONSET_EMPTY,
+        coloricon: $.iconset_coloricon || Iconpicker.ICONSET_EMPTY
     };
 
     // ICONPICKER DEFAULTS
