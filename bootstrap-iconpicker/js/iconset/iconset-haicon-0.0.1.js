@@ -26,7 +26,7 @@
             'plug',
             'lightbulb-o',
             'plus',
-            'circle-o',
+            'aircon',
             'bolt',
             'question',
             'square-o',
