@@ -30,7 +30,24 @@
             'bolt',
             'question',
             'square-o',
-            'power-off'
+            'power-off',
+            'sun-o',
+            'adjust',
+            'desktop',
+            'tablet',
+            'usb',
+            'circle-o',
+            'lock',
+            'cube',
+            'coffee',
+            'gamepad',
+            'bed',
+            'cutlery',
+            'home',
+            'tree',
+            'car',
+            'university',
+            'road'
         ]};
     
 })(jQuery);
